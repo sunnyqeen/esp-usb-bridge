@@ -2,10 +2,10 @@
 
 The ESP USB Bridge is an [ESP-IDF](https://github.com/espressif/esp-idf) project utilizing an ESP32-S2 or an ESP32-S3 chip to create a bridge between a computer (PC) and a target microcontroller (MCU). It can serve as a replacement for USB-to-UART chips (e.g. CP210x) or a debugger.
 
-This project is universal and can be used with various hardware setups. For detailed hardware setup requirements, please refer to the [Development Board](#development-board) section. However, if you own an ESP-Prog2, you can use the following link to try to flash it using ESP Launchpad.
+This project is universal and can be used with various hardware setups. For detailed hardware setup requirements, please refer to the [Development Board](#development-board) section. However, if you own an ESP-S3-DevKitC-1, you can use the following link to try to flash it using ESP Launchpad.
 
-<a href="https://espressif.github.io/esp-launchpad/?flashConfigURL=https://espressif.github.io/esp-usb-bridge/launchpad.toml">
-    <img alt="Try it with ESP Launchpad" src="https://espressif.github.io/esp-launchpad/assets/try_with_launchpad.png" width="250" height="70">
+<a href="https://espressif.github.io/esp-launchpad/?flashConfigURL=https://sunnyqeen.github.io/esp-usb-bridge/launchpad.toml">
+    <img alt="Try it with ESP Launchpad" src="images/try_with_launchpad.png" width="250" height="70">
 </a>
 
 The concept of ESP USB Bridge is shown in the following figure.
